@@ -1,0 +1,11 @@
+rednet.open("top")
+while true do
+  sleep(0.1)
+  msg, id = rednet.receive()
+  if msg == "1" then
+    redstone.setOutput("back",true)
+  else
+    redstone.setOutput("back", false)
+  end
+  print(msg)
+end

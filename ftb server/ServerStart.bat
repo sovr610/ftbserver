@@ -1,0 +1,1 @@
+java -Xms4096M -Xmx6G -XX:PermSize=128m -jar ftbserver.jar

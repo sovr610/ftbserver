@@ -1,0 +1,2 @@
+shell.run("clear")
+shell.run("monitor","left","core")

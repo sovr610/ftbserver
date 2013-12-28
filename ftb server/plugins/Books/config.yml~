@@ -1,0 +1,32 @@
+Books:
+  Information:
+    Title: /c/Server information
+    Author: /bthe server
+    Content:
+      Page-1: Welcome to the server!
+      Page-2: This book is made using the plugin, custom-book aka books which you can read more about using /cb info
+    EnableMessage: false
+    Message: You have been given a custom book
+JoinBooks:
+  '1':
+    Title: /c/Welcome to our server!
+    Author: jn1234
+    Content:
+      Page-1: This book is given using a plugin named custom books aka books
+      Page-2: /1/S/2/e/3/c/4/o/5/n/6/d /7/p/8/a/9/g/a/e
+    EnableMessage: false
+    Message: You have been given a custom book
+  '2':
+    Title: /a/Title
+    Author: /b/Author
+    Content:
+      Page-1: /c/Page 1
+      Page-2: /d/Page 2
+    EnableMessage: false
+    Message: /5/You have been given a custom book
+List:
+  '1':
+    Title: information
+    Description: Awesome Custom Books plugin, www.bukkit.org/bukkit-plugins/custom-book/
+PlayerList:
+- RandomPlayerName2

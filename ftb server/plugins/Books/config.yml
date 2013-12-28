@@ -1,0 +1,26 @@
+Books:
+  Information:
+    Title: /c/Server information
+    Author: /bthe server
+    Content:
+      Page-1: Welcome to the server!
+      Page-2: This book is made using the plugin, custom-book aka books which you can read more about using /cb info
+    EnableMessage: false
+    Message: You have been given a custom book
+JoinBooks:
+  '1':
+    Title: /c/Welcome to our server!
+    Author: MrSovr
+    Content:
+      Page-1: This server is made to show off the power of my Robot operating system! and to have a fun time :-)
+      Page-2: the spawn is where you can control my ROS, with pressure plates with a big computer screen.
+      Page-3: there is a live stream on twitch that shows a grid of lights that work along with the computercraft
+      Page-4: computers in minecraft to have you control what goes on. Talk to kylen8tr for more details.
+    EnableMessage: false
+    Message: You have been given a custom book
+List:
+  '1':
+    Title: information
+    Description: Awesome Custom Books plugin, www.bukkit.org/bukkit-plugins/custom-book/
+PlayerList:
+- RandomPlayerName2

@@ -1,0 +1,39 @@
+rednet.open("top")
+local x = 1
+local y = 0
+
+while true do
+  sleep(1.2)
+  id, msg = rednet.receive(5)
+  if x > 4 then x = 1 end
+  if y > 3 then y = 0 end
+  if x < 1 then x = 4 end
+  if y < 0 then y = 3 end
+  total = (y * 4) + x
+  if msg == "left" then
+    x = x - 1
+  
+  end
+  
+  
+  
+  print((y*4)+x)
+      
+  if msg == "right" then
+    x = x + 1
+  end
+  
+  if msg == "back" then
+    y = y + 1
+  end
+  
+  if msg == "top" then
+    y = y - 1
+  end
+  
+    
+  file = io.open("msg.txt","w")
+  file:write((y*4)+x)
+  file:close()      
+  rednet.broadcast((y*4)+x)
+end

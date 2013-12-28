@@ -1,0 +1,15 @@
+#Buycraft Plugin
+#Fri Dec 13 22:03:39 PST 2013
+debug=false
+secret=
+autoUpdate=true
+headsCurrency=true
+headsEnabled=false
+commandThrottleCount=150
+directPay=false
+commandChecker=true
+disableBuyCommand=false
+useBuyGUI=true
+buysignsRemoveFreePrice=false
+https=false
+buyCommand=buy

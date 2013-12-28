@@ -1,0 +1,29 @@
+
+rednet.open("right")
+redstone.setOutput("back",true)
+sleep(1.0)
+redstone.setOutput("back",false)
+while true do
+  sleep(0.1)
+  id, msg = rednet.receive()
+  file=fs.open(msg, "w")
+  file.writeLine(msg)
+  file.writeLine(id)
+  file.close()
+  
+  paintutils.drawPixel(1,1,2)
+  paintutils.drawPixel(1,3,2)
+  paintutils.drawPixel(3,1,2)
+  paintutils.drawPixel(3,3,2)
+   
+    
+     
+      
+        
+  if redstone.getInput("back",true)==true then
+    print("pressed")    
+  end
+end
+
+rednet.broadcast("song")
+

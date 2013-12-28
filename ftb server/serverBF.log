@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-26T14:48:41</date>
+  <millis>1388087321323</millis>
+  <sequence>1780</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>keepcalm.mods.bukkit.BukkitContainer</class>
+  <method>preInit</method>
+  <thread>11</thread>
+  <message>Initializing configuration...</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:41</date>
+  <millis>1388087321325</millis>
+  <sequence>1781</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>keepcalm.mods.bukkit.BukkitContainer</class>
+  <method>preInit</method>
+  <thread>11</thread>
+  <message>Set UUID to 1386647404896634319950-1.4.7</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:41</date>
+  <millis>1388087321427</millis>
+  <sequence>1782</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLPreInitializationEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:53</date>
+  <millis>1388087333911</millis>
+  <sequence>3380</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLInitializationEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:53</date>
+  <millis>1388087333911</millis>
+  <sequence>3381</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>keepcalm.mods.bukkit.BukkitContainer</class>
+  <method>init</method>
+  <thread>11</thread>
+  <message>Loading!</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:53</date>
+  <millis>1388087333922</millis>
+  <sequence>3400</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>keepcalm.mods.bukkit.BukkitContainer</class>
+  <method>init</method>
+  <thread>11</thread>
+  <message>Complete! Registering handlers...</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:54</date>
+  <millis>1388087334003</millis>
+  <sequence>3401</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>keepcalm.mods.bukkit.BukkitContainer</class>
+  <method>init</method>
+  <thread>11</thread>
+  <message>Done!</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:54</date>
+  <millis>1388087334004</millis>
+  <sequence>3402</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLInitializationEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:59</date>
+  <millis>1388087339226</millis>
+  <sequence>4412</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event IMCEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:59</date>
+  <millis>1388087339226</millis>
+  <sequence>4413</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event IMCEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:59</date>
+  <millis>1388087339282</millis>
+  <sequence>5071</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLPostInitializationEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:48:59</date>
+  <millis>1388087339282</millis>
+  <sequence>5072</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLPostInitializationEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:02</date>
+  <millis>1388087342933</millis>
+  <sequence>5628</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLLoadCompleteEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:02</date>
+  <millis>1388087342933</millis>
+  <sequence>5629</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLLoadCompleteEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:03</date>
+  <millis>1388087343002</millis>
+  <sequence>5861</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLServerAboutToStartEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:03</date>
+  <millis>1388087343003</millis>
+  <sequence>5862</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLServerAboutToStartEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:04</date>
+  <millis>1388087344445</millis>
+  <sequence>6115</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLServerStartingEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:04</date>
+  <millis>1388087344448</millis>
+  <sequence>6116</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLServerStartingEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:05</date>
+  <millis>1388087345040</millis>
+  <sequence>6347</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLServerStartedEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:05</date>
+  <millis>1388087345195</millis>
+  <sequence>6351</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLServerStartedEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:05</date>
+  <millis>1388087345570</millis>
+  <sequence>6568</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Starting BukkitForge null-null(CB-Version: git-Bukkit-1.4.5-R1.0-b3000jnks (Really: BukkitForge for MC 1.5.2)).</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:05</date>
+  <millis>1388087345571</millis>
+  <sequence>6569</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.Bukkit</class>
+  <method>setServer</method>
+  <thread>16</thread>
+  <message>This server is running BukkitForge version git-Bukkit-1.4.5-R1.0-b3000jnks (Really: BukkitForge for MC 1.5.2) (Implementing API version 1.4.7-R0.1)</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:05</date>
+  <millis>1388087345644</millis>
+  <sequence>6570</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>loadPlugins</method>
+  <thread>16</thread>
+  <message>Plugins are being loaded...</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:07</date>
+  <millis>1388087347268</millis>
+  <sequence>6577</sequence>
+  <logger>BukkitForge</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.SimplePluginManager</class>
+  <method>loadPlugins</method>
+  <thread>16</thread>
+  <message>Could not load './plugins/Books.jar' in folder './plugins'</message>
+  <exception>
+    <message>org.bukkit.plugin.InvalidPluginException: java.lang.ClassNotFoundException: Failed to remap class me.jonna.CustomBook.New</message>
+    <frame>
+      <class>org.bukkit.plugin.java.JavaPluginLoader</class>
+      <method>loadPlugin</method>
+      <line>176</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.plugin.SimplePluginManager</class>
+      <method>loadPlugin</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.plugin.SimplePluginManager</class>
+      <method>loadPlugins</method>
+      <line>232</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+      <method>loadPlugins</method>
+      <line>816</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+      <method>&lt;init&gt;</method>
+      <line>219</line>
+    </frame>
+    <frame>
+      <class>keepcalm.mods.bukkit.asm.BukkitStarter</class>
+      <method>run</method>
+      <line>47</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>701</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2013-12-26T14:49:07</date>
+  <millis>1388087347310</millis>
+  <sequence>6578</sequence>
+  <logger>BukkitForge</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.SimplePluginManager</class>
+  <method>loadPlugins</method>
+  <thread>16</thread>
+  <message>Could not load './plugins/Autocast.jar' in folder './plugins'</message>
+  <exception>
+    <message>org.bukkit.plugin.InvalidPluginException: java.lang.ClassNotFoundException: Failed to remap class it.ripercraft.autocast.Main</message>
+    <frame>
+      <class>org.bukkit.plugin.java.JavaPluginLoader</class>
+      <method>loadPlugin</method>
+      <line>176</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.plugin.SimplePluginManager</class>
+      <method>loadPlugin</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.plugin.SimplePluginManager</class>
+      <method>loadPlugins</method>
+      <line>232</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+      <method>loadPlugins</method>
+      <line>816</line>
+    </frame>
+    <frame>
+      <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+      <method>&lt;init&gt;</method>
+      <line>219</line>
+    </frame>
+    <frame>
+      <class>keepcalm.mods.bukkit.asm.BukkitStarter</class>
+      <method>run</method>
+      <line>47</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>701</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348093</millis>
+  <sequence>6579</sequence>
+  <logger>net.citizensnpcs.Citizens</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Citizens] Loading Citizens v2.0.8-SNAPSHOT (build 803)</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348093</millis>
+  <sequence>6580</sequence>
+  <logger>com.sk89q.worldedit.bukkit.WorldEditPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldEdit] Loading WorldEdit v5.5.7</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348093</millis>
+  <sequence>6581</sequence>
+  <logger>net.coreprotect.CoreProtect</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[CoreProtect] Loading CoreProtect v2.07</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348093</millis>
+  <sequence>6582</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] Loading WorldGuard v5.7.5</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348093</millis>
+  <sequence>6583</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Buycraft] Loading Buycraft v6.4</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348094</millis>
+  <sequence>6584</sequence>
+  <logger>com.earth2me.essentials.Essentials</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Essentials] Loading Essentials v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348094</millis>
+  <sequence>6585</sequence>
+  <logger>com.earth2me.essentials.chat.EssentialsChat</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsChat] Loading EssentialsChat v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348094</millis>
+  <sequence>6586</sequence>
+  <logger>com.earth2me.essentials.protect.EssentialsProtect</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsProtect] Loading EssentialsProtect v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348094</millis>
+  <sequence>6587</sequence>
+  <logger>com.earth2me.essentials.spawn.EssentialsSpawn</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsSpawn] Loading EssentialsSpawn v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348094</millis>
+  <sequence>6588</sequence>
+  <logger>com.earth2me.essentials.antibuild.EssentialsAntiBuild</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348095</millis>
+  <sequence>6589</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Loading PostWorld plugins...</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348097</millis>
+  <sequence>6590</sequence>
+  <logger>net.citizensnpcs.Citizens</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Citizens] Enabling Citizens v2.0.8-SNAPSHOT (build 803)</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348369</millis>
+  <sequence>6591</sequence>
+  <logger>BukkitForge</logger>
+  <level>SEVERE</level>
+  <class>net.citizensnpcs.api.util.Messaging</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Citizens] v2.0.8-SNAPSHOT (build 803) is not compatible with Minecraft vgit-Bukkit-1.4.5-R1.0-b3000jnks (Really: BukkitForge for MC 1.5.2). Disabling.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348370</millis>
+  <sequence>6592</sequence>
+  <logger>net.citizensnpcs.Citizens</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Citizens] Disabling Citizens v2.0.8-SNAPSHOT (build 803)</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:08</date>
+  <millis>1388087348403</millis>
+  <sequence>6593</sequence>
+  <logger>com.sk89q.worldedit.bukkit.WorldEditPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldEdit] Enabling WorldEdit v5.5.7</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:09</date>
+  <millis>1388087349043</millis>
+  <sequence>6595</sequence>
+  <logger>net.coreprotect.CoreProtect</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[CoreProtect] Enabling CoreProtect v2.07</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:09</date>
+  <millis>1388087349883</millis>
+  <sequence>6598</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] Enabling WorldGuard v5.7.5</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350029</millis>
+  <sequence>6599</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (overworld) TNT ignition is PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350029</millis>
+  <sequence>6600</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (overworld) Lighters are PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350029</millis>
+  <sequence>6601</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (overworld) Lava fire is blocked.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350029</millis>
+  <sequence>6602</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (overworld) Fire spread is UNRESTRICTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350033</millis>
+  <sequence>6603</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] Loaded configuration for world 'overworld'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350038</millis>
+  <sequence>6604</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (the_end) TNT ignition is PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350038</millis>
+  <sequence>6605</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (the_end) Lighters are PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350038</millis>
+  <sequence>6606</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (the_end) Lava fire is blocked.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350038</millis>
+  <sequence>6607</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (the_end) Fire spread is UNRESTRICTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350039</millis>
+  <sequence>6608</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] Loaded configuration for world 'the_end'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350044</millis>
+  <sequence>6609</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (twilight_forest) TNT ignition is PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350045</millis>
+  <sequence>6610</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (twilight_forest) Lighters are PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350045</millis>
+  <sequence>6611</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (twilight_forest) Lava fire is blocked.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350045</millis>
+  <sequence>6612</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (twilight_forest) Fire spread is UNRESTRICTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350045</millis>
+  <sequence>6613</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] Loaded configuration for world 'twilight_forest'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350047</millis>
+  <sequence>6614</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (nether) TNT ignition is PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350048</millis>
+  <sequence>6615</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (nether) Lighters are PERMITTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350048</millis>
+  <sequence>6616</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (nether) Lava fire is blocked.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350048</millis>
+  <sequence>6617</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] (nether) Fire spread is UNRESTRICTED.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350048</millis>
+  <sequence>6618</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] Loaded configuration for world 'nether'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350202</millis>
+  <sequence>6619</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] 3 regions loaded for 'overworld'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350208</millis>
+  <sequence>6620</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] 0 regions loaded for 'the_end'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350208</millis>
+  <sequence>6621</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] 0 regions loaded for 'twilight_forest'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350208</millis>
+  <sequence>6622</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[WorldGuard] 0 regions loaded for 'nether'</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350359</millis>
+  <sequence>6623</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Buycraft] Enabling Buycraft v6.4</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:10</date>
+  <millis>1388087350490</millis>
+  <sequence>6624</sequence>
+  <logger>com.earth2me.essentials.Essentials</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[Essentials] Enabling Essentials v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351233</millis>
+  <sequence>6627</sequence>
+  <logger>com.earth2me.essentials.chat.EssentialsChat</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsChat] Enabling EssentialsChat v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351243</millis>
+  <sequence>6628</sequence>
+  <logger>com.earth2me.essentials.protect.EssentialsProtect</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsProtect] Enabling EssentialsProtect v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351262</millis>
+  <sequence>6629</sequence>
+  <logger>com.earth2me.essentials.spawn.EssentialsSpawn</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsSpawn] Enabling EssentialsSpawn v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351270</millis>
+  <sequence>6630</sequence>
+  <logger>com.earth2me.essentials.antibuild.EssentialsAntiBuild</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>[EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351287</millis>
+  <sequence>6631</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>loadCustomPermissions</method>
+  <thread>16</thread>
+  <message>Going to load perms file: permissions.yml</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351287</millis>
+  <sequence>6632</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>loadCustomPermissions</method>
+  <thread>16</thread>
+  <message>Server permissions file permissions.yml is empty, ignoring it</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351361</millis>
+  <sequence>6633</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Loaded plugins: </message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6634</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Citizens- Enabled: false</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6635</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>WorldEdit- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6636</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>CoreProtect- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6637</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>WorldGuard- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6638</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Buycraft- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6639</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Essentials- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6640</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>EssentialsChat- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351362</millis>
+  <sequence>6641</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>EssentialsProtect- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351363</millis>
+  <sequence>6642</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>EssentialsSpawn- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351363</millis>
+  <sequence>6643</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>EssentialsAntiBuild- Enabled: true</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351387</millis>
+  <sequence>6644</sequence>
+  <logger>Minecraft.WorldEdit</logger>
+  <level>INFO</level>
+  <class>com.sk89q.worldedit.WorldEdit</class>
+  <method>setEditSessionFactory</method>
+  <thread>11</thread>
+  <message>Accepted EditSessionFactory of type net.coreprotect.worldedit.CoreProtectEditSessionFactory from net.coreprotect.worldedit</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351407</millis>
+  <sequence>6645</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[Buycraft] Authenticated with the specified Secret key.</message>
+</record>
+<record>
+  <date>2013-12-26T14:49:11</date>
+  <millis>1388087351407</millis>
+  <sequence>6646</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[Buycraft] Plugin is now ready to be used.</message>
+</record>
+<record>
+  <date>2013-12-26T14:58:42</date>
+  <millis>1388087922522</millis>
+  <sequence>6657</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>[Buycraft] HTTP request failed due to timeout error.</message>
+</record>
+<record>
+  <date>2013-12-26T14:58:42</date>
+  <millis>1388087922531</millis>
+  <sequence>6658</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>18</thread>
+  <message>[Buycraft] No response/invalid key during pending players check.</message>
+</record>
+<record>
+  <date>2013-12-26T15:06:42</date>
+  <millis>1388088402550</millis>
+  <sequence>6659</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>[Buycraft] HTTP request failed due to timeout error.</message>
+</record>
+<record>
+  <date>2013-12-26T15:06:42</date>
+  <millis>1388088402550</millis>
+  <sequence>6660</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>19</thread>
+  <message>[Buycraft] No response/invalid key during pending players check.</message>
+</record>
+<record>
+  <date>2013-12-26T18:45:08</date>
+  <millis>1388101508192</millis>
+  <sequence>6687</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINE</level>
+  <class>com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener</class>
+  <method>delayedJoin</method>
+  <thread>20</thread>
+  <message>Old player join</message>
+</record>
+<record>
+  <date>2013-12-26T19:35:42</date>
+  <millis>1388104542545</millis>
+  <sequence>6690</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>[Buycraft] HTTP request failed due to timeout error.</message>
+</record>
+<record>
+  <date>2013-12-26T19:35:42</date>
+  <millis>1388104542545</millis>
+  <sequence>6691</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>21</thread>
+  <message>[Buycraft] No response/invalid key during pending players check.</message>
+</record>
+<record>
+  <date>2013-12-26T19:37:42</date>
+  <millis>1388104662531</millis>
+  <sequence>6692</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>[Buycraft] HTTP request failed due to timeout error.</message>
+</record>
+<record>
+  <date>2013-12-26T19:37:42</date>
+  <millis>1388104662531</millis>
+  <sequence>6693</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>SEVERE</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>[Buycraft] No response/invalid key during pending players check.</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:14</date>
+  <millis>1388173454991</millis>
+  <sequence>6696</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftConsoleCommandSender</class>
+  <method>sendRawMessage</method>
+  <thread>11</thread>
+  <message>CONSOLE: Forcing save..</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:15</date>
+  <millis>1388173455024</millis>
+  <sequence>6729</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftConsoleCommandSender</class>
+  <method>sendRawMessage</method>
+  <thread>11</thread>
+  <message>CONSOLE: Save complete.</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457744</millis>
+  <sequence>6749</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLServerStoppingEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457745</millis>
+  <sequence>6750</sequence>
+  <logger>BukkitForge</logger>
+  <level>INFO</level>
+  <class>org.bukkit.craftbukkit.v1_5_R3.CraftServer</class>
+  <method>shutdown</method>
+  <thread>11</thread>
+  <message>Stopping BukkitForge null-null</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457745</millis>
+  <sequence>6751</sequence>
+  <logger>com.earth2me.essentials.antibuild.EssentialsAntiBuild</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457756</millis>
+  <sequence>6752</sequence>
+  <logger>com.earth2me.essentials.spawn.EssentialsSpawn</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[EssentialsSpawn] Disabling EssentialsSpawn v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457757</millis>
+  <sequence>6753</sequence>
+  <logger>com.earth2me.essentials.protect.EssentialsProtect</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[EssentialsProtect] Disabling EssentialsProtect v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457759</millis>
+  <sequence>6754</sequence>
+  <logger>com.earth2me.essentials.chat.EssentialsChat</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[EssentialsChat] Disabling EssentialsChat v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457761</millis>
+  <sequence>6755</sequence>
+  <logger>com.earth2me.essentials.Essentials</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[Essentials] Disabling Essentials v2.11.1</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457765</millis>
+  <sequence>6756</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[Buycraft] Disabling Buycraft v6.4</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457766</millis>
+  <sequence>6757</sequence>
+  <logger>net.buycraft.Plugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[Buycraft] Plugin has been disabled.</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457766</millis>
+  <sequence>6758</sequence>
+  <logger>com.sk89q.worldguard.bukkit.WorldGuardPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[WorldGuard] Disabling WorldGuard v5.7.5</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457767</millis>
+  <sequence>6759</sequence>
+  <logger>net.coreprotect.CoreProtect</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[CoreProtect] Disabling CoreProtect v2.07</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457812</millis>
+  <sequence>6760</sequence>
+  <logger>com.sk89q.worldedit.bukkit.WorldEditPlugin</logger>
+  <level>INFO</level>
+  <class>org.bukkit.plugin.PluginLogger</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>[WorldEdit] Disabling WorldEdit v5.5.7</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:17</date>
+  <millis>1388173457817</millis>
+  <sequence>6762</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLServerStoppingEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:18</date>
+  <millis>1388173458142</millis>
+  <sequence>7008</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sending event FMLServerStoppedEvent to mod BukkitForge</message>
+</record>
+<record>
+  <date>2013-12-27T14:44:18</date>
+  <millis>1388173458142</millis>
+  <sequence>7009</sequence>
+  <logger>BukkitForge</logger>
+  <level>FINEST</level>
+  <class>cpw.mods.fml.relauncher.FMLRelaunchLog</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>Sent event FMLServerStoppedEvent to mod BukkitForge</message>
+</record>
+</log>

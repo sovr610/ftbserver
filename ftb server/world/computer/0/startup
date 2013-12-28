@@ -1,0 +1,8 @@
+rednet.open("right")
+while true do
+  sleep(0.1)
+  if redstone.getInput("top",true) then
+    rednet.broadcast("left")
+  end
+  print("working")
+end

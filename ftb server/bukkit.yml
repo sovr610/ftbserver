@@ -1,0 +1,75 @@
+# This is the main configuration file for Bukkit.
+# As you can see, there's actually not that much to configure without any plugins.
+# For a reference for any variable inside this file, check out the bukkit wiki at
+# http://wiki.bukkit.org/Bukkit.yml
+# 
+# If you need help on this file, feel free to join us on irc or leave a message
+# on the forums asking for advice.
+# 
+# IRC: #bukkit @ esper.net
+#    (If this means nothing to you, just go to http://webchat.esper.net/?channels=bukkit )
+# Forums: http://forums.bukkit.org/forums/bukkit-help.6/
+# Twitter: http://twitter.com/Craftbukkit
+# Bug tracker: http://leaky.bukkit.org/
+
+
+settings:
+  allow-end: true
+  warn-on-overload: true
+  spawn-radius: 4
+  permissions-file: permissions.yml
+  update-folder: update
+  ping-packet-limit: 120
+  use-exact-login-location: false
+  plugin-profiling: false
+  connection-throttle: 4000
+  query-plugins: true
+  deprecated-verbose: default
+mcpc:
+  plugin-settings:
+    default:
+      debug: false
+      custom-class-loader: true
+      use-guava10: true
+      remap-nms-v1_5_R3: true
+      remap-nms-v1_5_R2: true
+      remap-nms-v1_5_R1: true
+      remap-nms-v1_4_R1: true
+      remap-nms-v1_4_6: true
+      remap-obc-v1_5_R3: false
+      remap-obc-v1_5_R2: false
+      remap-obc-v1_5_R1: true
+      remap-obc-v1_4_R1: false
+      remap-obc-v1_4_6: false
+      remap-obc-pre: false
+      remap-nms-pre: 'false'
+      global-inheritance: true
+      plugin-inheritance: true
+      remap-reflect-field: true
+      remap-reflect-class: true
+      remap-allow-future: false
+spawn-limits:
+  monsters: 50
+  animals: 25
+  water-animals: 10
+ticks-per:
+  animal-spawns: 350
+  monster-spawns: 400
+  autosave: 50
+auto-updater:
+  enabled: true
+  on-broken:
+  - warn-console
+  - warn-ops
+  on-update:
+  - warn-console
+  - warn-ops
+  preferred-channel: rb
+  host: dl.bukkit.org
+  suggest-channels: true
+database:
+  username: bukkit
+  isolation: SERIALIZABLE
+  driver: org.sqlite.JDBC
+  password: walrus
+  url: jdbc:sqlite:{DIR}{NAME}.db

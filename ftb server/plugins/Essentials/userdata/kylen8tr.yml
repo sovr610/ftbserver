@@ -1,0 +1,20 @@
+timestamps:
+  login: 1388101508257
+  logout: 1388108643835
+  lastteleport: 1388009904968
+ipAddress: 192.168.1.114
+logoutlocation:
+  world: overworld
+  x: 86.11387138136269
+  y: 66.49771478177003
+  z: 239.92954617311767
+  yaw: 130.80148
+  pitch: 8.849956
+lastlocation:
+  world: overworld
+  x: 142.15124662747388
+  y: 57.0
+  z: 253.68846932953034
+  yaw: -93.60137
+  pitch: 5.8499885
+afk: false
