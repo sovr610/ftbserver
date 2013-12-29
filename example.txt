@@ -1,0 +1,8 @@
+hello there
+
+this is for command in c++ and c
+
+c++: g++ -Wall -W  -Werror example.cpp -o hello
+c: gcc -Wall  -W -Werror example.c -o hello
+
+to execute program: ./hello
