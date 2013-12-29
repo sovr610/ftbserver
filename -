@@ -1,0 +1,11 @@
+--2013-10-13 14:52:31--  http://packages.ros.org/ros.key
+Resolving packages.ros.org (packages.ros.org)... 64.50.236.52, 64.50.233.100
+Connecting to packages.ros.org (packages.ros.org)|64.50.236.52|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1162 (1.1K) [application/pgp-keys]
+Saving to: ‘ros.key’
+
+     0K .                                                     100%  128M=0s
+
+2013-10-13 14:52:31 (128 MB/s) - ‘ros.key’ saved [1162/1162]
+

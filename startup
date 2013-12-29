@@ -1,0 +1,3 @@
+sudo get-apt update
+javac database.java
+java database
