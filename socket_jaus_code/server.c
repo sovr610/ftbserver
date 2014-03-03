@@ -44,10 +44,14 @@ int main(int argc, char *argv[])
      while(c == 0)
      {
      	bzero(buffer,256);
-     	n = read(newsockfd,buffer,255);
+     	n = read(newsockfd,buffer,256);
      	if (n < 0) error("ERROR reading from socket");
      	printf("Here is the message: %s\n",buffer);
-     	n = write(newsockfd,"I got your message",18);
+	printf("%i",n);
+     	if(n > 0)
+	{
+		n = write(newsockfd,"I got your message",18);
+	}
      	if (n < 0) error("ERROR writing to socket");
      }
      close(newsockfd);
